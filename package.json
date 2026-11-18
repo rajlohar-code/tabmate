@@ -1,0 +1,22 @@
+{
+  "name": "tabmate",
+  "version": "1.0.0",
+  "description": "TabMate - AI Webpage Assistant powered by LangChain and Gemini",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@langchain/core": "^1.4.1",
+    "@langchain/google-genai": "^2.3.6",
+    "vite": "^8.3.8"
+  },
+  "dependencies": {
+    "marked": "^18.2.1"
+  }
+}
