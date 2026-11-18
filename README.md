@@ -17,14 +17,15 @@
 
 ## ⚡ Quick Install (No coding required)
 
-1. Download **`tabmate-extension.zip`** and unzip the folder.
+1. **[👉 Download TabMate v1.0.0 (.zip)](https://github.com/rajlohar-code/tabmate/releases/latest/download/tabmate-extension.zip)** and unzip the folder on your computer.
 2. In Google Chrome, go to:
    ```text
    chrome://extensions
    ```
-3. Turn **ON** the **"Developer mode"** toggle (top right corner).
-4. Click **"Load unpacked"** (top left corner) and select the unzipped `dist` folder.
+3. Turn **ON** the **"Developer mode"** toggle in the top-right corner.
+4. Click **"Load unpacked"** (top-left) and select the unzipped `dist` folder.
 5. Pin **TabMate** to your Chrome toolbar and click the icon to open the side panel!
+6. Click **Settings (⚙️)** in the sidebar to add your free Gemini API key from [Google AI Studio](https://aistudio.google.com/). You're ready to chat!
 
 ---
 
